@@ -1,0 +1,11 @@
+type Destination {
+    id: ID!
+    name: String!
+    country: String!
+    description: String
+    image_url: String
+}
+
+type Query{
+    allDestinations: [Destination!]!
+}
