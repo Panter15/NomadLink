@@ -54,5 +54,4 @@ Coming soon: Docker setup and local run instructions
 
 ## 🧑‍💻 Author
 
-Luis [Your Last Name] – Fullstack Developer  
-[GitHub Profile] • [LinkedIn Profile]
+Luis Portilla – Fullstack Developer  
